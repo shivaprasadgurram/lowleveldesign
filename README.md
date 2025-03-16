@@ -1,2 +1,2 @@
-# lowleveldesign
-Lets deep dive into Object Oriented Design
+# Low Level Design
+Lets deep dive into Object Oriented Design.
